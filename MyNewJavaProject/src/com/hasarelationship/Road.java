@@ -7,6 +7,8 @@ class Road {
 		System.out.println(bike1.colour);
 		System.out.println(bike1.mileage);
 		System.out.println(bike1.e.cc);
+		Bike bike2=new Bike(60,"red");
+				
 
 	}
 
